@@ -9,7 +9,7 @@ The **Face Mask Detector** is a real-time computer vision project that identifie
 - **SSD MobileNetV2 320x320** pre-trained model for transfer learning
 - **97.07% accuracy** on real-time video streams
 - Provides visual feedback using bounding boxes and text
-
+![Mask Detection Example](image.png)
 ### Technical Highlights
 - **Frameworks:** TensorFlow and OpenCV for deep learning and image processing
 - **Optimizer and Loss:** Adam optimizer and binary cross-entropy loss function
